@@ -1,3 +1,5 @@
+
+
 # Scope Interface Comparison
 
 ## Basic vs Advanced Service Scope Interfaces
